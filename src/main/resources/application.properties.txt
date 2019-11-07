@@ -1,0 +1,7 @@
+# application name must be specified and be unique
+spring.application.name=conference-management
+spring.profiles.active=default
+server.context-path=/conference
+server.port=8080
+server.max-http-header-size=50000
+
